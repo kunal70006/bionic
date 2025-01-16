@@ -192,7 +192,7 @@ const PdfReader: React.FC = () => {
     <div className='flex justify-center'>
       <Card className="w-full max-w-4xl">
         <CardHeader>
-          <CardTitle>PDF Text Extractor</CardTitle>
+          <CardTitle>Yaha upload kijiye 😽</CardTitle>
         </CardHeader>
         <CardContent>
           <div className="space-y-4">
@@ -239,7 +239,7 @@ const PdfReader: React.FC = () => {
                     className="flex items-center gap-2"
                   >
                     <Download className="w-4 h-4" />
-                    Download PDF
+                    Yaha se download kijiye 😽
                   </Button>
                 </div>
                 {pages.map((page) => (
